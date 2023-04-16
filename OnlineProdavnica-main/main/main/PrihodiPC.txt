@@ -1,0 +1,8 @@
+           -------------------------------------------------------------------------------------------------
+              ID laptopa   Kolicina    Ime            Prezime        Ziro racun     Adresa         
+           ------------------------------------------------------------------------------------------------  
+ 	      2            2           ll             ss             324            ewww           
+              1            4           NOVI           NOVIC          222324         EED            
+              4            2           Selma          Djelilovic     c1234          Kruscica       
+              12           3           Kristiano      Ronaldo        2334343        Preocia bb     
+              3            100         Selma          Husic          343444         Kruscica-bb    

@@ -1,0 +1,21 @@
+kupac1 22
+kupac2 22
+ ll 1234
+ pom 22 
+jj 11
+ jj 12
+ 22 2
+ pp 20
+ oo 30
+ ii 40
+ ii 40
+ ii 40
+ ii 40
+ kk 2
+ cc ee
+ huso hucis
+ hh hh
+ ss ss
+ gh s
+ l sd
+ hg sd

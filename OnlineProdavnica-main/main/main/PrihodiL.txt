@@ -1,0 +1,16 @@
+       -------------------------------------------------------------------------------------------------
+              ID laptopa   Kolicina    Ime            Prezime        Ziro racun     Adresa         
+        ------------------------------------------------------------------------------------------------
+              3            5           lELO           lerp           32             543      
+              3            5           43             3              3              3              
+              5            10          Selma          Arnaut         34553          Arnauti bb     
+              1            2           hUS            CSIS           2332           SDA                     
+              3            2           PR             PR             3234           423            
+              4            1           SE             RT             FSF            43             
+              5            2           EFW            FR             RE             34             
+              5            2           RE             FD             ER             ER             
+              4            3           Erik           Bai            2213           London         
+              3            100         Leo            Messi          23143          PSG            
+              14           1           Ermin          Skaljo         234093         Rujev-do-8     
+              17           2           Selma          Husic          234563         Kruscica-bb    
+              21           3           Samir          Adilovic       345654         Ahmici-bb   
